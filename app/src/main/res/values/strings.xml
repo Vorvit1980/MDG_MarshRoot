@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Маршрутки</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="marshroot1">Маршрут № 1</string>
+    <string name="marshroot2">Маршрут № 2</string>
+    <string name="marshroot3">Маршрут № 3</string>
+    <string name="marshroot4">Маршрут № 4</string>
+
+    <string name="lavasguba">Лавас Губа</string>
+    <string name="vichka">ст. Вичка</string>
+    <string name="povenec">Повенец</string>
+    <string name="ptz">Петрозаводск</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="vokzal">Вокзал</string>
+    <string name="konechnaya">Конечная</string>
+
+</resources>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/marshroot1"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Пиндуши (№ 1) / Будни" />
+        <item
+            android:id="@+id/marshroot11"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Пиндуши (№1) / Выходные" />
+        <item
+            android:id="@+id/marshroot2"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="с/х Вичка (№ 2)" />
+        <item
+            android:id="@+id/marshroot3"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/marshroot3" />
+        <item
+            android:id="@+id/marshroot4"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="@string/marshroot4" />
+
+
+        <item
+            android:id="@+id/lavasguba"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="@string/lavasguba" />
+        <item
+            android:id="@+id/vichka"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="@string/vichka" />
+        <item
+            android:id="@+id/povenec"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="@string/povenec" />
+        <item
+            android:id="@+id/ptz"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="@string/ptz" />
+    </group>
+
+</menu>
